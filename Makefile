@@ -1,7 +1,7 @@
 CPP=g++
 CPPFLAGS=
 LDLIBS=-lncursesw
-SRCDIR=./src/cpp
+SRCDIR=./src
 BINDIR=./bin
 
 .SUFFIXES: .cpp .o .h
